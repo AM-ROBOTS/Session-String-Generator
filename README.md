@@ -3,17 +3,17 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://github.com/8769ANURAG"><img src="https://telegra.ph/file/3e9fb6ecc88a98a374c59.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/AM-ROBOTS"><img src="https://telegra.ph/file/3e9fb6ecc88a98a374c59.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/8769ANURAG/Session-String-Generator)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AM-ROBOTS/Session-String-Generator)
 
 ## Usage
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/8769ANURAG/Session-String-Generator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AM-ROBOTS/Session-String-Generator)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -70,6 +70,6 @@ Group Chat :- [Group support](https://t.me/Official_Movies_Group)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/8769ANURAG)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AM-ROBOTS)
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/8769ANURAG)
